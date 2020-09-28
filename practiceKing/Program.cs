@@ -11,7 +11,7 @@ namespace practiceKing
     class Program
     {
         static void Main(string[] args)             
-        {
+        {  
             try
             {
                 //https://by-man.tistory.com/326 여기서 문제 보자
